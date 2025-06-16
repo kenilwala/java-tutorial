@@ -4,7 +4,6 @@ public class Main {
         while (i<=3) {
             System.out.println(i);
             i++;
-
         }
     }
 }
