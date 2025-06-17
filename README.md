@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-Your local content here
+My Java Learnings
+Posting my Knowledge here for backup
 =======
-Remote content from GitHub here
->>>>>>> origin/main
+
+Origin= java-tutorial
+branch=main
